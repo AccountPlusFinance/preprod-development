@@ -8,6 +8,7 @@ class MathOperations{
   public:
     int Add(int a, int b);
     int Subtract(int a, int b);
+    MathOperations(); // Class Constructor
 
 };
 
