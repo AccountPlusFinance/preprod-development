@@ -1,5 +1,7 @@
 #include "MathOperations.h"
 
+MathOperations::MathOperations() {} // Class Constructor
+
 int MathOperations::Square(int value){
   return (value * value)+1;
 }
