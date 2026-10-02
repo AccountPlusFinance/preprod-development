@@ -1,0 +1,15 @@
+/content/api_app/obj/Debug/net10.0/api_app.GeneratedMSBuildEditorConfig.editorconfig
+/content/api_app/obj/Debug/net10.0/api_app.AssemblyInfoInputs.cache
+/content/api_app/obj/Debug/net10.0/api_app.AssemblyInfo.cs
+/content/api_app/obj/Debug/net10.0/api_app.csproj.CoreCompileInputs.cache
+/content/api_app/bin/Debug/net10.0/api_app
+/content/api_app/bin/Debug/net10.0/api_app.deps.json
+/content/api_app/bin/Debug/net10.0/api_app.runtimeconfig.json
+/content/api_app/bin/Debug/net10.0/api_app.dll
+/content/api_app/bin/Debug/net10.0/api_app.pdb
+/content/api_app/obj/Debug/net10.0/api_app.dll
+/content/api_app/obj/Debug/net10.0/refint/api_app.dll
+/content/api_app/obj/Debug/net10.0/api_app.pdb
+/content/api_app/obj/Debug/net10.0/api_app.genruntimeconfig.cache
+/content/api_app/obj/Debug/net10.0/ref/api_app.dll
+/content/api_app/bin/Debug/net10.0/libmath.so
