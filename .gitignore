@@ -1,0 +1,36 @@
+## --- .NET / C# ---
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## --- C++ / Build Artifacts ---
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+## --- Operating System Junk ---
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
